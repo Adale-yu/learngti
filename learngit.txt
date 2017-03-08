@@ -1,0 +1,2 @@
+git is perfect!
+I love git!
